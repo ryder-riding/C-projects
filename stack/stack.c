@@ -13,7 +13,7 @@ void main ()
     printf("\n----------------------------------------------\n");  
     while(choice != 4)  
     {  
-        printf("\nChose one from the below options...\n");  
+        printf("\nChoose one from the below options...\n");  
         printf("\n1.Push\n2.Pop\n3.Show\n4.Exit");  
         printf("\nEnter your choice: ");        
         scanf("%d",&choice);  
